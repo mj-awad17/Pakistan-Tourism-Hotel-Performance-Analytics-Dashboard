@@ -1,6 +1,6 @@
 # 🏨 Pakistan Tourism & Hotel Performance Analytics Dashboard
 
-![Project Banner](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/dashboard.png)
+![Project Banner](https://github.com/mj-awad17/Pakistan-Tourism-Hotel-Performance-Analytics-Dashboard/blob/main/interactive_dashboard.jpg)
 
 > **An end-to-end data analytics project featuring raw data processing, data cleaning & transformation, dynamic KPI Scorecard modeling, and an interactive executive dashboard.**
 
@@ -12,12 +12,12 @@ To highlight the full analytics lifecycle, this project showcases the progressio
 
 | 1. Messy / Raw Data | 2. Cleaned & Structured Dataset |
 | :---: | :---: |
-| ![Messy Data](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/messy_data.png) | ![Clean Data](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/clean_data.png) |
+| ![Messy Data](https://github.com/mj-awad17/Pakistan-Tourism-Hotel-Performance-Analytics-Dashboard/blob/main/messy_data.png) | ![Clean Data](https://github.com/mj-awad17/Pakistan-Tourism-Hotel-Performance-Analytics-Dashboard/blob/main/clean_data.png)
 | *Raw records with unformatted metrics and missing structures* | *Cleaned sheet with proper data types, conditional formatting & formulas* |
 
 | 3. Dynamic KPI Scorecards | 4. Executive Dashboard |
 | :---: | :---: |
-| ![KPI Cards](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/kpi_cards.png) | ![Interactive Dashboard](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/dashboard.png) |
+| ![KPI Cards](https://github.com/mj-awad17/Pakistan-Tourism-Hotel-Performance-Analytics-Dashboard/blob/main/KPIs_cards.png) |
 | *Calculated metrics (Total Revenue: PKR 1.16B, ADR: PKR 14k)* | *Interactive view with dynamic slicers for City, Province & Season* |
 
 ---
@@ -57,9 +57,13 @@ The underlying dataset tracks key operational performance metrics across hotels 
 
 ## 📈 KPIs & Analytical Approach
 
+- **Total Revenue:** $1165959138\ \text{PKR}$
+
 ### 1. Key Metrics & Dynamic Formulas
-* **Total Revenue:** 
-  $$\text{Total Revenue} = \sum \text{Total\_Revenue} \quad (\text{PKR } 1,165,959,138)$$
+* **Total Revenue:**
+
+$$\text{Total Revenue} = \sum \text{Total\_Revenue} \quad (\text{PKR } 1,165,959,138)$$
+
 * **Average Daily Rate (ADR):** 
   $$\text{ADR} = \text{AVERAGE}(\text{Room\_Rate\_PKR}) \quad (\text{PKR } 14,083)$$
 * **Average Customer Rating:** 
