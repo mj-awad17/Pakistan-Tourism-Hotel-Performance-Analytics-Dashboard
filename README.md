@@ -17,7 +17,7 @@ To highlight the full analytics lifecycle, this project showcases the progressio
 
 | 3. Dynamic KPI Scorecards | 4. Executive Dashboard |
 | :---: | :---: |
-| ![KPI Cards](https://github.com/mj-awad17/Pakistan-Tourism-Hotel-Performance-Analytics-Dashboard/blob/main/KPIs_cards.png) |
+| ![KPI Cards](https://github.com/mj-awad17/Pakistan-Tourism-Hotel-Performance-Analytics-Dashboard/blob/main/KPIs_cards.png) | ![Executive Dashboard](https://github.com/mj-awad17/Pakistan-Tourism-Hotel-Performance-Analytics-Dashboard/blob/main/Executive_Dashboard.png)
 | *Calculated metrics (Total Revenue: PKR 1.16B, ADR: PKR 14k)* | *Interactive view with dynamic slicers for City, Province & Season* |
 
 ---
