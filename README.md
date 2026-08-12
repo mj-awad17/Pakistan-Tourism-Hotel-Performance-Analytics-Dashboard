@@ -3,7 +3,7 @@
 <!-- Animated Profile / Project Banner -->
 <p align="center">
   <video
-    src="./assets/pakistan-tourism-dashboard-preview.mp4"
+    src="https://drive.google.com/file/d/1PP2UZobJpXFA0DiJk8EjBhM_mQ5hMODP/view?usp=sharing"
     autoplay
     loop
     muted
@@ -13,6 +13,11 @@
     Your browser does not support the video tag.
   </video>
 </p>
+
+<video width="640" height="360" controls>
+  <source src="https://drive.google.com/file/d/1PP2UZobJpXFA0DiJk8EjBhM_mQ5hMODP/view?usp=sharing" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 > **An end-to-end data analytics project featuring raw data processing, data cleaning & transformation, dynamic KPI Scorecard modeling, and an interactive executive dashboard.**
 
