@@ -1,23 +1,12 @@
 # 🏨 Pakistan Tourism & Hotel Performance Analytics Dashboard
 
 <!-- Animated Profile / Project Banner -->
-<p align="center">
-  <video
-    src="https://drive.google.com/file/d/1PP2UZobJpXFA0DiJk8EjBhM_mQ5hMODP/view?usp=sharing"
-    autoplay
-    loop
-    muted
-    playsinline
-    width="100%"
-  >
-    Your browser does not support the video tag.
-  </video>
-</p>
-
 <video width="640" height="360" controls>
   <source src="https://drive.google.com/file/d/1PP2UZobJpXFA0DiJk8EjBhM_mQ5hMODP/view?usp=sharing" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+[![a](https://youtu.be/ndrsGESU9rw)](https://youtu.be/ndrsGESU9rw)
 
 > **An end-to-end data analytics project featuring raw data processing, data cleaning & transformation, dynamic KPI Scorecard modeling, and an interactive executive dashboard.**
 
@@ -252,8 +241,7 @@ Feel free to share your feedback, suggestions, or ideas. Every contribution and 
 
 ---
 
-<p align="center">
+
 ### 🌟 If you found this project helpful, please ⭐ Star the repository and 👤 Follow for more amazing projects!
-**Your support motivates me to keep learning, building, and sharing. ❤️**
-</p>
-<p align="center">Made with ❤️ for Data Analytics & Business Intelligence</p>
+
+<p align="center">Your support motivates me to keep learning, building, and sharing. ❤️</p>
