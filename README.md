@@ -6,7 +6,7 @@
   Your browser does not support the video tag.
 </video>
 
-[![a](https://youtu.be/ndrsGESU9rw)](https://youtu.be/ndrsGESU9rw)
+![Alt text for screen readers](https://github.com/mj-awad17/Pakistan-Tourism-Hotel-Performance-Analytics-Dashboard/blob/main/Interactive_Dashboard.gif)
 
 > **An end-to-end data analytics project featuring raw data processing, data cleaning & transformation, dynamic KPI Scorecard modeling, and an interactive executive dashboard.**
 
